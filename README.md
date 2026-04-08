@@ -57,4 +57,17 @@ No need to remember syntax — just describe what you want in simple English!
 
 ---
 
-## 📁 Project Structure
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 📝 Register Page
+![Register Page](screenshots/register.png)
+
+### ⚡ Code Generator
+![Code Generator](screenshots/generator.png)
+
+---
